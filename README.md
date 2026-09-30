@@ -1,40 +1,39 @@
-# Samuel Geraldo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c34,100:e4bf7a&height=180&section=header&text=Samuel%20Geraldo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Data%20Science&descAlignY=58" width="100%" alt="Samuel Geraldo"/>
 
-**Saya menganalisis perilaku pelanggan dan pasar, dari data mentah sampai rekomendasi yang bisa dieksekusi.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4BF7A&center=true&vCenter=true&width=520&lines=Mencari+magang+Data+Analyst+%2F+Data+Scientist;Customer+%26+Market+Analytics;Dari+data+mentah+ke+keputusan" alt="Typing intro"/>
+</p>
 
-Mahasiswa Sistem Informasi UPN Veteran Jakarta, sedang mencari magang Data Analyst / Data Scientist. Setiap project saya mulai dari satu pertanyaan bisnis, bukan dari dataset, dan bug nyata yang saya temui sepanjang jalan saya dokumentasikan.
+## 💫 About Me
+🎓 Mahasiswa Sistem Informasi, UPN Veteran Jakarta<br>
+🔍 Fokus pada analitik pelanggan dan pasar: RFM, cohort, dan analisis saham<br>
+📍 Jakarta
 
-[LinkedIn](https://linkedin.com/in/samuel-geraldo) · [Email](mailto:samuelgeraldo234@gmail.com) · Jakarta
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-geraldo)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelgeraldo234@gmail.com)
 
----
+## 🚀 Projects
+[![RFM Cohort](https://github-readme-stats.shion.dev/api/pin/?username=samuel-geraldo&repo=rfm-cohort-ecommerce&theme=onedark)](https://github.com/samuel-geraldo/rfm-cohort-ecommerce)
+[![Analisis Pangan IDX](https://github-readme-stats.shion.dev/api/pin/?username=samuel-geraldo&repo=analisis-pangan-idx&theme=onedark)](https://github.com/samuel-geraldo/analisis-pangan-idx)
 
-## Pertanyaan yang sudah saya jawab dengan data
+- **RFM & Cohort:** 14% customer menyumbang 51,5% revenue
+- **Saham Pangan IDX:** lonjakan besar, tapi belum signifikan secara statistik (p > 0,05)
 
-### Siapa pelanggan paling bernilai, dan siapa yang cenderung pergi?
-**[RFM Segmentation & Cohort Analysis](https://github.com/samuel-geraldo/rfm-cohort-ecommerce)**: 5.861 customer e-commerce, 2009–2011
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-- 14% customer (segmen Champions) menyumbang 51,5% revenue
-- Customer non-UK punya AOV sekitar 1,8x customer UK, dengan frekuensi belanja yang mirip
-- Customer churn (>180 hari tidak aktif) punya AOV lebih rendah secara signifikan (uji-t, p = 0,018)
-- Metode: RFM quintile scoring, cohort retention matrix, uji-t
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=samuel-geraldo&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://streak-stats.demolab.com/?user=samuel-geraldo&theme=onedark&hide_border=false)
 
-### Apakah performa saham pangan berubah setelah Oktober 2024, dan apakah ditentukan posisi di rantai pasok?
-**[Analisis Saham Rantai Pasok Pangan IDX](https://github.com/samuel-geraldo/analisis-pangan-idx)**: 6 emiten + IHSG, Januari 2023 sampai sekarang
-
-- JPFA satu-satunya saham yang menguat di kedua periode (+25,9% lalu +48,4%), sementara ICBP berbalik dari +30,7% ke -42,6% dan BISI dari -2,9% ke -50,3%
-- Perbedaan antar-periode ini belum signifikan secara statistik (uji-t Welch, semua p > 0,05), dan posisi rantai pasok tidak menjelaskan return (R² = 0,0001, n = 6). Angkanya tampak dramatis tapi belum bisa dibedakan dari fluktuasi normal
-- Metode: pipeline Python/pandas/yfinance, database SQLite dengan 5 query analitik (window function, CTE, self-join), dashboard Power BI (MA20, MA50, RSI14)
-
----
-
-## Cara saya bekerja
-
-- Mulai dari pertanyaan bisnis, baru pilih metode
-- Setiap klaim harus bisa direproduksi lewat kode di repo
-- Bug nyata dicatat per project, jadi proses berpikirnya bisa dibaca, bukan cuma hasil akhirnya
-
-## Tools
-
-**Analisis:** Python (pandas), SQL (SQLite)
-**Visualisasi:** Power BI, matplotlib, seaborn
-**Workflow:** Jupyter Notebook, Git & GitHub
+## 📈 Data Stats
+<img src="data-stats.svg" width="540" alt="Samuel's Data Stats"/>
