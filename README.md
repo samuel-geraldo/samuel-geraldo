@@ -18,8 +18,20 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Data &amp; Analysis</h3>
-<p align="center"><img src="tech-data.svg" alt="Python, pandas, Jupyter, SQLite, Power BI, Matplotlib, Seaborn"/></p>
+<h3 align="center">Languages</h3>
+<p align="center"><img src="tech-languages.svg" alt="Python, SQL"/></p>
 
-<h3 align="center">Design &amp; Tools</h3>
-<p align="center"><img src="tech-tools.svg" alt="draw.io, Figma, Linear, Cisco Packet Tracer, Git, GitHub"/></p>
+<h3 align="center">Data Analysis</h3>
+<p align="center"><img src="tech-analysis.svg" alt="pandas, Jupyter"/></p>
+
+<h3 align="center">Visualization</h3>
+<p align="center"><img src="tech-viz.svg" alt="Power BI, Matplotlib, Seaborn"/></p>
+
+<h3 align="center">Database</h3>
+<p align="center"><img src="tech-database.svg" alt="SQLite"/></p>
+
+<h3 align="center">Tools</h3>
+<p align="center"><img src="tech-tools.svg" alt="Git, GitHub, Linear, Figma, draw.io"/></p>
+
+<h3 align="center">Networking</h3>
+<p align="center"><img src="tech-networking.svg" alt="Cisco Packet Tracer"/></p>
