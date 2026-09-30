@@ -17,4 +17,9 @@
 <p align="center"><img src="data-stats.svg" width="540" alt="Samuel's Data Stats"/></p>
 
 <h2 align="center">Tech Stack</h2>
-<p align="center"><img src="tech-stack.svg" width="540" alt="Samuel's Tech Stack"/></p>
+
+<h3 align="center">Data &amp; Analysis</h3>
+<p align="center"><img src="tech-data.svg" alt="Python, pandas, Jupyter, SQLite, Power BI, Matplotlib, Seaborn"/></p>
+
+<h3 align="center">Design &amp; Tools</h3>
+<p align="center"><img src="tech-tools.svg" alt="draw.io, Figma, Linear, Cisco Packet Tracer, Git, GitHub"/></p>
