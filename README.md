@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Strive to be a Contrarian Based on Data.
+  Strive to be a contrarian, but only when the data says so.
 </p>
 
 <p align="center">
@@ -17,23 +17,30 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
-<p align="center"><img src="tech-languages.svg" alt="Python, SQL"/></p>
-
-<h3 align="center">Data Analysis</h3>
-<p align="center"><img src="tech-analysis.svg" alt="pandas, Jupyter"/></p>
-
-<h3 align="center">Visualization</h3>
-<p align="center"><img src="tech-viz.svg" alt="Power BI, Matplotlib, Seaborn"/></p>
-
-<h3 align="center">Database</h3>
-<p align="center"><img src="tech-database.svg" alt="SQLite"/></p>
-
-<h3 align="center">Data Collection</h3>
-<p align="center"><img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/></p>
-
-<h3 align="center">Tools</h3>
-<p align="center"><img src="tech-tools.svg" alt="Git, GitHub, Linear, Figma, draw.io"/></p>
-
-<h3 align="center">Networking</h3>
-<p align="center"><img src="tech-networking.svg" alt="Cisco Packet Tracer"/></p>
+<table align="center">
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <b>Languages</b><br>
+      <img src="tech-languages.svg" alt="Python, SQL"/>
+      <br><br>
+      <b>Data Analysis</b><br>
+      <img src="tech-analysis.svg" alt="pandas, Jupyter"/>
+      <br><br>
+      <b>Visualization</b><br>
+      <img src="tech-viz.svg" alt="Power BI, Matplotlib, Seaborn"/>
+      <br><br>
+      <b>Database</b><br>
+      <img src="tech-database.svg" alt="SQLite"/>
+    </td>
+    <td valign="top" align="center" width="50%">
+      <b>Data Collection</b><br>
+      <img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/>
+      <br><br>
+      <b>Tools</b><br>
+      <img src="tech-tools.svg" alt="Git, GitHub, Linear, Figma, draw.io"/>
+      <br><br>
+      <b>Networking</b><br>
+      <img src="tech-networking.svg" alt="Cisco Packet Tracer"/>
+    </td>
+  </tr>
+</table>
