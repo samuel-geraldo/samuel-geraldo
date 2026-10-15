@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="620" alt="Samuel Geraldo"/>
+  <img src="banner.jpg?v=2" width="100%" alt="Samuel Geraldo"/>
 </p>
 <p align="center"><b>Samuel Geraldo</b> · System Analyst Intern | Data Analytics</p>
 
