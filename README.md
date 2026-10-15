@@ -23,7 +23,7 @@
     <td valign="top" align="center" width="50%">
       <b>1 · Collect &amp; Store</b><br><br>
       <img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/>
-      <img src="tech-database.svg" alt="SQLite"/>
+      <img src="tech-database.svg" alt="SQLite, DBeaver"/>
       <br><br>
       <b>2 · Analyze</b><br><br>
       <img src="tech-languages.svg" alt="Python, SQL"/>
