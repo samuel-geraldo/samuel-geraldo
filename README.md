@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samuel-geraldo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/Samgrld"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:samuelgeraldo234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/samuel-geraldo">LinkedIn</a> ·
+  <a href="https://instagram.com/Samgrld">Instagram</a> ·
+  <a href="mailto:samuelgeraldo234@gmail.com">Email</a>
 </p>
 
 <h2 align="center">Data Stats</h2>
 <p align="center"><img src="data-stats.svg" width="540" alt="Samuel's Data Stats"/></p>
 
 <h2 align="center">Tech Stack</h2>
-<p align="center"><i>From raw data to decision</i></p>
+<p align="center">From raw data to decision</p>
 
 <table align="center">
   <tr>
