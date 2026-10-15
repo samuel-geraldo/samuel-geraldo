@@ -1,14 +1,10 @@
 <p align="center">
   <img src="banner.jpg?v=2" width="100%" alt="Samuel Geraldo"/>
 </p>
-<p align="center"><b>Samuel Geraldo</b> · System Analyst Intern | Data Analytics</p>
 
 <p align="center">
-  Mahasiswa Sistem Informasi UPN Veteran Jakarta yang tertarik pada analitik data:<br>
-  mengubah data mentah menjadi temuan yang bisa dipakai untuk mengambil keputusan.
+  Strive to be a Contrarian Based on Data.
 </p>
-
-<p align="center">📍 Jakarta</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/samuel-geraldo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
