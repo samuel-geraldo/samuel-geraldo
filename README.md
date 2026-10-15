@@ -16,14 +16,13 @@
 <p align="center"><img src="data-stats.svg" width="540" alt="Samuel's Data Stats"/></p>
 
 <h2 align="center">Tech Stack</h2>
-<p align="center">From raw data to decision</p>
 
 <table align="center">
   <tr>
     <td valign="top" align="center" width="50%">
       <b>1 · Collect &amp; Store</b><br><br>
       <img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/>
-      <img src="tech-database.svg" alt="SQLite, DBeaver"/>
+      <img src="tech-database.svg" alt="SQLite, DBeaver Community"/>
       <br><br>
       <b>2 · Analyze</b><br><br>
       <img src="tech-languages.svg" alt="Python, SQL"/>
