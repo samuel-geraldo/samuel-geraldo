@@ -16,26 +16,26 @@
 <p align="center"><img src="data-stats.svg" width="540" alt="Samuel's Data Stats"/></p>
 
 <h2 align="center">Tech Stack</h2>
+<p align="center"><i>From raw data to decision</i></p>
 
-<div align="left">
-  <b>Data &amp; Analysis</b><br><br>
-  <img src="tech-languages.svg" alt="Python, SQL"/>
-  <img src="tech-analysis.svg" alt="pandas, Jupyter"/>
-  <img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/>
-</div>
-
-<br>
-
-<div align="right">
-  <b>Visualization &amp; Database</b><br><br>
-  <img src="tech-viz.svg" alt="Power BI, Matplotlib, Seaborn"/>
-  <img src="tech-database.svg" alt="SQLite"/>
-</div>
-
-<br>
-
-<div align="left">
-  <b>Tools &amp; Infra</b><br><br>
-  <img src="tech-tools.svg" alt="Git, GitHub, Linear, Figma, draw.io"/>
-  <img src="tech-networking.svg" alt="Cisco Packet Tracer"/>
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <b>1 · Collect &amp; Store</b><br><br>
+      <img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/>
+      <img src="tech-database.svg" alt="SQLite"/>
+      <br><br>
+      <b>2 · Analyze</b><br><br>
+      <img src="tech-languages.svg" alt="Python, SQL"/>
+      <img src="tech-analysis.svg" alt="pandas, Jupyter"/>
+    </td>
+    <td valign="top" align="center" width="50%">
+      <b>3 · Visualize</b><br><br>
+      <img src="tech-viz.svg" alt="Power BI, Matplotlib, Seaborn"/>
+      <br><br>
+      <b>4 · Workflow</b><br><br>
+      <img src="tech-tools.svg" alt="Git, GitHub, Linear, Figma, draw.io"/>
+      <img src="tech-networking.svg" alt="Cisco Packet Tracer"/>
+    </td>
+  </tr>
+</table>
