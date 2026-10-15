@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1b27,100:38bdae&height=200&section=header&text=Samuel%20Geraldo&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=System%20Analyst%20Intern%20%7C%20Data%20Analytics&descAlignY=62" width="100%" alt="Samuel Geraldo"/>
+<p align="center">
+  <img src="banner.jpg?v=2" width="100%" alt="Samuel Geraldo"/>
+</p>
+<p align="center"><b>Samuel Geraldo</b> · System Analyst Intern | Data Analytics</p>
 
 <p align="center">
   Mahasiswa Sistem Informasi UPN Veteran Jakarta yang tertarik pada analitik data:<br>
