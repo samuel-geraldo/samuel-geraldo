@@ -25,18 +25,18 @@
       <img src="tech-database.svg?v=3" alt="SQLite, DBeaver"/>
       <br><br>
       <b>2 · Analyze</b><br><br>
-      <img src="tech-languages.svg?v=3" alt="Python, SQL"/>
+      <img src="tech-analyze-1.svg?v=3" alt="Python, SQL, pandas, NumPy, SciPy, scikit-learn"/>
       <br>
-      <img src="tech-analysis.svg?v=3" alt="pandas, NumPy, SciPy, scikit-learn, Jupyter"/>
+      <img src="tech-analyze-2.svg?v=3" alt="Jupyter"/>
     </td>
     <td valign="top" align="center" width="50%">
       <b>3 · Visualize</b><br><br>
       <img src="tech-viz.svg?v=3" alt="Power BI, Matplotlib, Seaborn"/>
       <br><br>
       <b>4 · Workflow</b><br><br>
-      <img src="tech-tools.svg?v=3" alt="Git, GitHub, Google Colab, Kaggle, Claude Code"/>
-      <img src="tech-design.svg?v=3" alt="Linear, Figma, draw.io"/>
-      <img src="tech-networking.svg?v=3" alt="Cisco Packet Tracer"/>
+      <img src="tech-workflow-1.svg?v=3" alt="Git, GitHub, Google Colab, Kaggle, Claude Code, Linear"/>
+      <br>
+      <img src="tech-workflow-2.svg?v=3" alt="Figma, draw.io, Cisco Packet Tracer"/>
     </td>
   </tr>
 </table>
