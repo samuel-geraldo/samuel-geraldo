@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">Data Stats</h2>
-<p align="center"><img src="data-stats.svg" width="540" alt="Samuel's Data Stats"/></p>
+<p align="center"><img src="data-stats.svg?v=2" width="540" alt="Samuel's Data Stats"/></p>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -21,21 +21,22 @@
   <tr>
     <td valign="top" align="center" width="50%">
       <b>1 · Collect &amp; Store</b><br><br>
-      <img src="tech-scraping.svg" alt="Pengumpulan data: HAR dan Python requests"/>
-      <img src="tech-database.svg" alt="SQLite"/>
-      <img src="tech-dbeaver.svg" alt="DBeaver Community"/>
+      <img src="tech-scraping.svg?v=3" alt="HAR, requests, Playwright"/>
+      <img src="tech-database.svg?v=3" alt="SQLite, DBeaver"/>
       <br><br>
       <b>2 · Analyze</b><br><br>
-      <img src="tech-languages.svg" alt="Python, SQL"/>
-      <img src="tech-analysis.svg" alt="pandas, Jupyter"/>
+      <img src="tech-languages.svg?v=3" alt="Python, SQL"/>
+      <br>
+      <img src="tech-analysis.svg?v=3" alt="pandas, NumPy, SciPy, scikit-learn, Jupyter"/>
     </td>
     <td valign="top" align="center" width="50%">
       <b>3 · Visualize</b><br><br>
-      <img src="tech-viz.svg" alt="Power BI, Matplotlib, Seaborn"/>
+      <img src="tech-viz.svg?v=3" alt="Power BI, Matplotlib, Seaborn"/>
       <br><br>
       <b>4 · Workflow</b><br><br>
-      <img src="tech-tools.svg" alt="Git, GitHub, Linear, Figma, draw.io"/>
-      <img src="tech-networking.svg" alt="Cisco Packet Tracer"/>
+      <img src="tech-tools.svg?v=3" alt="Git, GitHub, Google Colab, Kaggle, Claude Code"/>
+      <img src="tech-design.svg?v=3" alt="Linear, Figma, draw.io"/>
+      <img src="tech-networking.svg?v=3" alt="Cisco Packet Tracer"/>
     </td>
   </tr>
 </table>
