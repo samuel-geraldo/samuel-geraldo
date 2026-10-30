@@ -15,18 +15,18 @@
   <text x="25" y="80" class="label">Data projects:</text>
   <text x="215" y="80" class="value">5</text>
   <text x="25" y="106" class="label">Rows processed:</text>
-  <text x="215" y="106" class="value">1,085,077</text>
+  <text x="215" y="106" class="value">1,086,625</text>
   <text x="25" y="132" class="label">Clean rows produced:</text>
-  <text x="215" y="132" class="value">794,229</text>
+  <text x="215" y="132" class="value">794,618</text>
   <text x="25" y="158" class="label">SQL queries:</text>
-  <text x="215" y="158" class="value">9</text>
+  <text x="215" y="158" class="value">17</text>
   <text x="25" y="184" class="label">Statistical tests:</text>
   <text x="215" y="184" class="value">10</text>
   <text x="25" y="210" class="label">Charts &amp; dashboards:</text>
-  <text x="215" y="210" class="value">32</text>
+  <text x="215" y="210" class="value">33</text>
   <text x="25" y="236" class="label">Bugs documented:</text>
   <text x="215" y="236" class="value">12</text>
   <text x="445" y="128" class="hero" text-anchor="middle">1.09M</text>
   <text x="445" y="150" class="cap" text-anchor="middle">rows processed</text>
-  <text x="445" y="170" class="sub" text-anchor="middle">794,229 clean rows out</text>
+  <text x="445" y="170" class="sub" text-anchor="middle">794,618 clean rows out</text>
 </svg>
