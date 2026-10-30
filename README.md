@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">Data Stats</h2>
-<p align="center"><img src="data-stats.svg?v=2" width="540" alt="Samuel's Data Stats"/></p>
+<p align="center"><img src="data-stats.svg?v=3" width="540" alt="Samuel's Data Stats"/></p>
 
 <h2 align="center">Tech Stack</h2>
 
