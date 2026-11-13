@@ -22,7 +22,7 @@
     <td valign="top" align="center" width="50%">
       <b>1 · Collect &amp; Store</b><br><br>
       <img src="tech-scraping.svg?v=3" alt="HAR, requests, Playwright"/>
-      <img src="tech-database.svg?v=3" alt="SQLite, DBeaver"/>
+      <img src="tech-database.svg?v=4" alt="SQLite, PostgreSQL, DBeaver"/>
       <br><br>
       <b>2 · Analyze</b><br><br>
       <img src="tech-analyze-1.svg?v=3" alt="Python, SQL, pandas, NumPy, SciPy, scikit-learn"/>
