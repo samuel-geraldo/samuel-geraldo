@@ -36,7 +36,7 @@
       <b>4 · Workflow</b><br><br>
       <img src="tech-workflow-1.svg?v=3" alt="Git, GitHub, Google Colab, Kaggle, Claude Code, Linear"/>
       <br>
-      <img src="tech-workflow-2.svg?v=3" alt="Figma, draw.io, Cisco Packet Tracer"/>
+      <img src="tech-workflow-2.svg?v=4" alt="Figma, draw.io, Cisco Packet Tracer, pytest, GitHub Actions"/>
     </td>
   </tr>
 </table>
